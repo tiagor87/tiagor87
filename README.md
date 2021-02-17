@@ -1,4 +1,4 @@
-### Pleasure, my name is Tiago Resende! 
+### 👋 Pleasure, my name is Tiago Resende! 
 
 Father, teacher, gamer, and tech lover.
 
