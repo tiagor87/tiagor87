@@ -36,7 +36,7 @@ I am currently a C# backend technical leader in Mundipagg company, developing di
 
 ## Professional History
 
-### UniFESO - Since 2019
+### UniFESO - Since 2020
 
 I started teaching at the beginning of 2019 and it has been quite a challenge, mainly due to the Covid-19 pandemic. I had to learn and relearn several things, class setup, communication, assessment, CBT guidance and a lot of other things. I have really enjoyed the experience.
 
