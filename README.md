@@ -12,7 +12,7 @@ When I didn't see any more opportunities for growth, I decided to look for a new
 
 I am currently a C# backend technical leader in Mundipagg company, developing distributed and high performance solutions, which serve about 40% of the eletronic market nationwide. I also work as a professor of web development, database and object orientation at the university where I graduated.
 
-## Academic training
+## Academic trainning
 
 * Computer Science Bachelor at UniFESO between 2005 to 2009
 * MBA in Advanced Computer Engineering at UFRJ between 2010 to 2011
