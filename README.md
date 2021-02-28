@@ -6,7 +6,7 @@
 
 I am a very persistent and focused person, I go to great lengths to achieve the goals I set in the best possible way. Besides, I'm a scholar, I'm always trying to improve myself. In my free time, when I am not with my family, I am studying, or  both, as I said, I love studying and I believe that knowledge is never too much.
 
-I started my career developing Flash sites with my brother as a freelancer. Some time later, I was called to work in a small development company, where I had a deeper contact with programming, which made me choose Computer Science at the College. Then, I had my first opportunity in a large company, where I played a very important role as QA, working directly on test automation in their ERP product line. A year later, I participated in a selection process and won the position of trainee programmer using the Delphi programming language. During the time I was in this company, I managed to climb step by step, always offering my best, reaching a web / mobile programmer, professor of internal courses and solutions architect, designing some new modules.
+I started my career developing Flash sites with my brother as a freelancer. Some time later, I was called to work in a small development company, where I had a deeper contact with programming, which made me choose Computer Science at the College. Then, I had my first opportunity in a large company, where I played a very important role as QA, working directly on test automation in their ERP product line. A year later, I participated in a selection process and won the position of trainee programmer using the Delphi programming language. During the time I was in this company, I managed to climb step by step, always offering my best, reaching web / mobile programmer, professor of internal courses and solutions architect, designing some new modules.
 When I didn't see any more opportunities for growth, I made the decision to leave the company and focus on something of mine, so together with two friends, we opened N4Works, a services company focused on web / mobile and consulting. It was quite a learning experience, unfortunately due to some mistakes we made in his management, it was not working out and in his third year of life, we decided to assume this, which was very difficult, but we closed the company.
 
 I am currently a C# backend technical leader in the company Mundipagg, developing distributed and high performance solutions, which serve about 40% of the eletronic market nationwide. I also work as a professor of web development, database and object orientation at the university of the city where I live.
@@ -34,6 +34,10 @@ I am currently a C# backend technical leader in the company Mundipagg, developin
 * Write Asynchronous C# Code with Tasks and PLINQ at Udemy on 2018
 
 ## Professional History
+
+### UniFESO - Since 2019
+
+I started teaching at the beginning of 2019 and it has been quite a challenge, mainly due to the Covid-19 pandemic. I had to learn and relearn several things, class setup, communication, assessment, CBT guidance and a lot of other things. I have really enjoyed the experience.
 
 ### Mundipagg - Since 2018
 
